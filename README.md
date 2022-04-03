@@ -1,4 +1,5 @@
-### Hi there 👋. I'm Huy Nguyen
+## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
+#### It's Huy Nguyen, a Computer Science student at University of North Texas.
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=0B2531&width=150&height=25&lines=Find+me+at+👇+" alt="Hello Line" />
